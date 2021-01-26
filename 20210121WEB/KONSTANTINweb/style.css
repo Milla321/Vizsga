@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+}
+body{
+	background-image: url(hatter02.png);
+	color: #333;
+}
+.content {
+	background-color: #e5e5e5;
+	max-width: 600px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+	
+	
+.kep1, .kep3 {
+	float: right;
+	margin-left: 8px;
+}	
+.kep2	{
+	float: left;
+	margin-right: 8px;
+}	
+img {	
+	 width: 200px;
+}
+	
+p  {	
+       text-align: justify;
+}
+       
+.vonalkoz {
+			text-transform: uppercase;
+			letter-spacing: 8px;
+}
+
+.uralkod {	
+	display: inline-block;
+}
+
+
+
+
